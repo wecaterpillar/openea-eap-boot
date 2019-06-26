@@ -35,7 +35,7 @@ public class EapbootGenerator {
      * 作者名
      * 建议仅需修改
      */
-    private static final String author = "Exrick";
+    private static final String author = "xxx";
 
     /**
      * 是否生成关联工作流相关接口
