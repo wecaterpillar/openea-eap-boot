@@ -1,9 +1,9 @@
-package org.openea.eapboot.modules.base.serviceimpl;
+package org.openea.eapboot.modules.message.service.impl;
 
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.dao.MessageDao;
-import org.openea.eapboot.modules.base.entity.Message;
-import org.openea.eapboot.modules.base.service.MessageService;
+import org.openea.eapboot.modules.message.dao.MessageDao;
+import org.openea.eapboot.modules.message.entity.Message;
+import org.openea.eapboot.modules.message.service.MessageService;
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.util.StrUtil;
 import lombok.extern.slf4j.Slf4j;

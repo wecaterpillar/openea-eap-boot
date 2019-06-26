@@ -1,9 +1,9 @@
-package org.openea.eapboot.modules.base.aync;
+package org.openea.eapboot.modules.message.aync;
 
-import org.openea.eapboot.modules.base.entity.Message;
-import org.openea.eapboot.modules.base.entity.MessageSend;
-import org.openea.eapboot.modules.base.service.MessageSendService;
-import org.openea.eapboot.modules.base.service.MessageService;
+import org.openea.eapboot.modules.message.entity.Message;
+import org.openea.eapboot.modules.message.entity.MessageSend;
+import org.openea.eapboot.modules.message.service.MessageSendService;
+import org.openea.eapboot.modules.message.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Async;
 import org.springframework.stereotype.Component;

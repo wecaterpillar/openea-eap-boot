@@ -1,4 +1,4 @@
-package org.openea.eapboot.modules.base.entity.elasticsearch;
+package org.openea.eapboot.modules.log.entity;
 
 import org.openea.eapboot.common.constant.CommonConstant;
 import org.openea.eapboot.common.utils.ObjectUtil;

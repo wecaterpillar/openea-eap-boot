@@ -1,4 +1,4 @@
-package org.openea.eapboot.modules.base.controller.manage;
+package org.openea.eapboot.modules.message.controller;
 
 import org.openea.eapboot.common.constant.CommonConstant;
 import org.openea.eapboot.common.utils.PageUtil;
@@ -6,11 +6,11 @@ import org.openea.eapboot.common.utils.ResultUtil;
 import org.openea.eapboot.common.vo.PageVo;
 import org.openea.eapboot.common.vo.Result;
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.entity.Message;
-import org.openea.eapboot.modules.base.entity.MessageSend;
+import org.openea.eapboot.modules.message.entity.Message;
+import org.openea.eapboot.modules.message.entity.MessageSend;
 import org.openea.eapboot.modules.base.entity.User;
-import org.openea.eapboot.modules.base.service.MessageSendService;
-import org.openea.eapboot.modules.base.service.MessageService;
+import org.openea.eapboot.modules.message.service.MessageSendService;
+import org.openea.eapboot.modules.message.service.MessageService;
 import org.openea.eapboot.modules.base.service.UserService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

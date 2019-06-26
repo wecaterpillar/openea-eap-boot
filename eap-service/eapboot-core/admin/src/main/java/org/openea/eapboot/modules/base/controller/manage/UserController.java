@@ -2,7 +2,7 @@ package org.openea.eapboot.modules.base.controller.manage;
 
 import org.openea.eapboot.common.annotation.SystemLog;
 import org.openea.eapboot.common.exception.EapbootException;
-import org.openea.eapboot.modules.base.aync.AddMessage;
+import org.openea.eapboot.modules.message.aync.AddMessage;
 import org.openea.eapboot.common.constant.CommonConstant;
 import org.openea.eapboot.common.enums.LogType;
 import org.openea.eapboot.common.utils.PageUtil;

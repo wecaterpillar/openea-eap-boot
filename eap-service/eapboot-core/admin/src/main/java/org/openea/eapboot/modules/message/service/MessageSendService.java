@@ -1,7 +1,7 @@
-package org.openea.eapboot.modules.base.service;
+package org.openea.eapboot.modules.message.service;
 
 import org.openea.eapboot.base.EapBaseService;
-import org.openea.eapboot.modules.base.entity.MessageSend;
+import org.openea.eapboot.modules.message.entity.MessageSend;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

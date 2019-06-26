@@ -1,4 +1,4 @@
-package org.openea.eapboot.modules.base.entity;
+package org.openea.eapboot.modules.log.entity;
 
 import org.openea.eapboot.base.EapBaseEntity;
 import org.openea.eapboot.common.utils.ObjectUtil;

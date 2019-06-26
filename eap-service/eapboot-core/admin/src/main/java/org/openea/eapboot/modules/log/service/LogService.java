@@ -1,9 +1,9 @@
-package org.openea.eapboot.modules.base.service;
+package org.openea.eapboot.modules.log.service;
 
 
 import org.openea.eapboot.base.EapBaseService;
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.entity.Log;
+import org.openea.eapboot.modules.log.entity.Log;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

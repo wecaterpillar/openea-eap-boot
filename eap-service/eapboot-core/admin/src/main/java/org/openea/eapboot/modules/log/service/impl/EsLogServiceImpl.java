@@ -1,9 +1,9 @@
-package org.openea.eapboot.modules.base.serviceimpl.elasticsearch;
+package org.openea.eapboot.modules.log.service.impl;
 
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.dao.elasticsearch.EsLogDao;
-import org.openea.eapboot.modules.base.entity.elasticsearch.EsLog;
-import org.openea.eapboot.modules.base.service.elasticsearch.EsLogService;
+import org.openea.eapboot.modules.log.dao.EsLogDao;
+import org.openea.eapboot.modules.log.entity.EsLog;
+import org.openea.eapboot.modules.log.service.EsLogService;
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.util.StrUtil;
 import lombok.extern.slf4j.Slf4j;

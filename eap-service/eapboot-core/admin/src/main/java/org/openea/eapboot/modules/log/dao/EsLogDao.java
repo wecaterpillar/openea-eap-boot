@@ -1,6 +1,6 @@
-package org.openea.eapboot.modules.base.dao.elasticsearch;
+package org.openea.eapboot.modules.log.dao;
 
-import org.openea.eapboot.modules.base.entity.elasticsearch.EsLog;
+import org.openea.eapboot.modules.log.entity.EsLog;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;

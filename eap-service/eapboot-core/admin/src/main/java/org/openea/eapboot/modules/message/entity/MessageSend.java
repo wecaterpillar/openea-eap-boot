@@ -1,4 +1,4 @@
-package org.openea.eapboot.modules.base.entity;
+package org.openea.eapboot.modules.message.entity;
 
 import org.openea.eapboot.base.EapBaseEntity;
 import org.openea.eapboot.common.constant.CommonConstant;

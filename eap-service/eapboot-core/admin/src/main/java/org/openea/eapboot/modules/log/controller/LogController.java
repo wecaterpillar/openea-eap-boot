@@ -1,14 +1,14 @@
-package org.openea.eapboot.modules.base.controller.manage;
+package org.openea.eapboot.modules.log.controller;
 
 import org.openea.eapboot.common.utils.PageUtil;
 import org.openea.eapboot.common.utils.ResultUtil;
 import org.openea.eapboot.common.vo.PageVo;
 import org.openea.eapboot.common.vo.Result;
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.entity.Log;
-import org.openea.eapboot.modules.base.entity.elasticsearch.EsLog;
-import org.openea.eapboot.modules.base.service.LogService;
-import org.openea.eapboot.modules.base.service.elasticsearch.EsLogService;
+import org.openea.eapboot.modules.log.entity.Log;
+import org.openea.eapboot.modules.log.entity.EsLog;
+import org.openea.eapboot.modules.log.service.LogService;
+import org.openea.eapboot.modules.log.service.EsLogService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;

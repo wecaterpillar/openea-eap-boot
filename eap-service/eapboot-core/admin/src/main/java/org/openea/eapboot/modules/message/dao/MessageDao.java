@@ -1,7 +1,7 @@
-package org.openea.eapboot.modules.base.dao;
+package org.openea.eapboot.modules.message.dao;
 
 import org.openea.eapboot.base.EapBaseDao;
-import org.openea.eapboot.modules.base.entity.Message;
+import org.openea.eapboot.modules.message.entity.Message;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package org.openea.eapboot.modules.base.service.elasticsearch;
+package org.openea.eapboot.modules.log.service;
 
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.entity.elasticsearch.EsLog;
+import org.openea.eapboot.modules.log.entity.EsLog;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

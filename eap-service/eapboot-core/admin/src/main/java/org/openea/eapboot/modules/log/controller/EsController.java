@@ -1,4 +1,4 @@
-package org.openea.eapboot.modules.base.controller.manage;
+package org.openea.eapboot.modules.log.controller;
 
 import org.openea.eapboot.common.exception.EapbootException;
 import org.openea.eapboot.common.utils.ResultUtil;

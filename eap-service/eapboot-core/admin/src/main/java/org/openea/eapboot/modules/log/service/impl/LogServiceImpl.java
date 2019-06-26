@@ -1,9 +1,9 @@
-package org.openea.eapboot.modules.base.serviceimpl;
+package org.openea.eapboot.modules.log.service.impl;
 
 import org.openea.eapboot.common.vo.SearchVo;
-import org.openea.eapboot.modules.base.dao.LogDao;
-import org.openea.eapboot.modules.base.entity.Log;
-import org.openea.eapboot.modules.base.service.LogService;
+import org.openea.eapboot.modules.log.dao.LogDao;
+import org.openea.eapboot.modules.log.entity.Log;
+import org.openea.eapboot.modules.log.service.LogService;
 import cn.hutool.core.date.DateUtil;
 import cn.hutool.core.util.StrUtil;
 import lombok.extern.slf4j.Slf4j;

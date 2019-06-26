@@ -1,8 +1,8 @@
-package org.openea.eapboot.modules.base.serviceimpl;
+package org.openea.eapboot.modules.message.service.impl;
 
-import org.openea.eapboot.modules.base.dao.MessageSendDao;
-import org.openea.eapboot.modules.base.entity.MessageSend;
-import org.openea.eapboot.modules.base.service.MessageSendService;
+import org.openea.eapboot.modules.message.dao.MessageSendDao;
+import org.openea.eapboot.modules.message.entity.MessageSend;
+import org.openea.eapboot.modules.message.service.MessageSendService;
 import cn.hutool.core.util.StrUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
